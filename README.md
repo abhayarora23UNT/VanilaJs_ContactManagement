@@ -50,3 +50,6 @@ End Points can be changed as per the requirements. Developer should update the s
 
 
 #### Privacy Policy
+
+
+See the [Privacy Policy](Privacy%20Policy.md).md file for details
