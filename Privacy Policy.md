@@ -1,6 +1,5 @@
 Privacy Policy
 
-This application follows some official documentation of Graph QL , Apollo Angular and some sample Github Public Projects.
 
 Last updated: 05/26/2023
 
